@@ -1,0 +1,52 @@
+# CRM Campaign Analysis
+Portfolio project focused on CRM, SQL, customer journey analysis and AI automation.
+
+# CRM Campaign Analysis
+
+## 📌 Project Overview
+
+This project simulates the work of a CRM Analyst for a food delivery company.
+
+The objective is to analyze customer behavior, identify opportunities to improve retention, and propose CRM strategies supported by SQL, dashboards, and AI-powered automation.
+
+---
+
+## 🎯 Business Problem
+
+Only 18% of new users complete their first purchase after installing the app.
+
+---
+
+## 🎯 Objectives
+
+- Analyze customer behavior using SQL
+- Measure CRM KPIs
+- Design customer journeys
+- Build a Power BI dashboard
+- Propose AI-powered automation ideas
+
+---
+
+## 🛠️ Tools
+
+- SQL
+- Power BI
+- Excel
+- GitHub
+- ChatGPT
+
+---
+
+## 📈 KPIs
+
+- DAU
+- Conversion Rate
+- Retention Rate
+- ARPDAU
+- LTV
+
+---
+
+## 🚧 Project Status
+
+Work in progress...
